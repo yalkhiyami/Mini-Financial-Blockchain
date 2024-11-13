@@ -14,8 +14,8 @@ A simple Python-based blockchain system for secure financial transactions. It va
 ## Output
 Example outputs from running the program:
 
-![Blockchain Output 1](output.png)
-![Blockchain Output 2](output2.png)
+![Blockchain Output 1](./output.PNG)
+![Blockchain Output 2](./output2.PNG)
 
 ## Tutorial: Customizing and Using the Blockchain
 
